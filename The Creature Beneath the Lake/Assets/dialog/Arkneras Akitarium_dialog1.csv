@@ -1,0 +1,14 @@
+player,npc,path
+"Arkneras, you're here?_Hello Arkneras","Why wouldn't I be? I had to come to pay my respects. He was a good man. Crydus. I'm sorry. _Ah, it has been a while hasn't it?","1,2"
+Do not worry. He is with the gods now. ,"Indeed. Hopefully they show mercy on his soul. It's been so long, hasn't it?",2
+Well yes it has.,I just wish I could have known you earlier. ,3
+Why's that?,"I would have been able to help your father, before his passing. ",4
+"You have done more than enough. And I could never thank you enough._You're a good man, Arkneras. No matter what men say about you. ","You already have. You have given me the sight of the legendary beast. For over two hundred thousand years have we been blinded. And now they're here._Let them say what they want. Let them call me a dark lord, or some other thing. I have survived a Nykur. That is more than enough. ",5
+"Now that you've seen a Nykur, what do you want to do now?_You know, since we are at the graves of our forefathers, is your family buried here?","Truth be told, I do not know. I have lived all my life without seeing them, and now that they exist, so do all the other legends and stories. The world is growing back to its size. _My family? No. They suffered a similar fate to your mother. ",6
+What happened to your family?_You don't have to share it. ,"When I was just a boy, about your age actually. I returned home, and suddenly they were not there. They just vanished. I spent years trying to understand, with no prevail. Apparently through my knowledge I had gained, the Order of Undying Wisdom came to me, the rest we all know._Understood, alas, I wish I could see the beast that took them away from me. ","7,8"
+So that's how you came to be?,Sadly.,12
+I bet one day you will. _I doubt the Nykur is a sign of the return of the legendary beasts. ,"One day, maybe tommorow. Or maybe in ten years. Only Tileram knows._Well if it isn't then that'll be a damn shame. ",9
+"Well, looks like we won't be seeing eachother for a long time. ","Boy, are you telling me that you'll miss me?",10
+"Thank you for your help, Arkneras. ",Good luck to you. Let us pray the gods have mercy on Galaoroid for once. ,None
+The sun's finally seting. ,"Indeed. It's beautifull, isn't it…",13
+I guess this is the end of our journey.,Looks like it.,9

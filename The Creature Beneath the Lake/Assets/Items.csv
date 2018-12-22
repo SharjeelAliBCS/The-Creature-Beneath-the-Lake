@@ -1,0 +1,17 @@
+Name,info,Type,Special_type,region,pickup
+Rusty Axe,A rusty axe used to cut down trees. Not ideal for use as a weapon.,Weapon,3,bedroom,TRUE
+Nykur Hair,"A long strand of black hair from a Nykur. You stare at it, for some reason it is dripping with black water. ",Quest item,None,forest east,TRUE
+"King Edverd, the Uniter","A book written on the legendary King Edverd, and his unification of Galoroid at the end of the eigth era.",Book,Assets/Texts/Edverd_the_Uniter.txt,library,TRUE
+Father's Letter,Hmm. This letter came from my father. I told him not to contact me after I found out what happened. ,Book,Assets/Texts/father_note.txt,frontyard,TRUE
+"History of Galoroid till Fourteenth Era, 67th Edition",A book that talks about the entire history of Galoroid. ,Book,Assets/Texts/history_galoroid.txt,library,TRUE
+The Prophecy of the First,None,text,Assets/Texts/prophecy.txt,ruins,FALSE
+Sword of Verix,"A mythical sword used by Verix, the Invincible during the Fifth Era. Legends state he used this sword to slay over ten thousand legendary beasts in his lifetime. ",,,None,TRUE
+footprint,"You stare down at the wet ground. Suddenly you see it: A footprint, seeming to be from a horse. You notice it creates  a trackway that seems to lead to the lake itself. You crouch on the ground and gaze at it. Then you notice something off about the footprint. Taking note of the tracks, you realize the footprint is backwards, which doesn't line up with the trackway. You stumble backwards, staring in shock. How could this be? You must be going mad. This. This shouldn't be possible. ",Quest Item,None,lakeside,FALSE
+painting,"You glance at the woman on the painting. You suddenly decide to sit down on your bed as you stare at her beautiful face. You wish that you could meet her again, but you know that will never happen. You dream of long forgotten memories from a time of childhood, of innocence, a time where you would play with the grass and run up to your young mother. Then, you remember. Dreams will always be dreams, and nothing more. Your mother has long since passed this realm. You rise up from your bed. ",scenery,None,bedroom,FALSE
+lantern,You gaze at the small lantern. It's candle has been put out since last night. ,scenery,None,bedroom,FALSE
+window,"You stare outside the window and breathe in the fresh warm summer air. You can see the Ancient Forest a mile ahead of you. It is quiet, something that you enjoy. ",scenery,None,bedroom,FALSE
+lantern,You gaze at the small lantern. It's candle has been put out since last night. ,scenery,None,home,FALSE
+window,"You stare outside the window and breathe in the fresh warm summer air. You can see the Ancient Forest a mile ahead of you. It is quiet, something that you enjoy. ",scenery,None,home,FALSE
+fireplace,"The fireplace is still burning with light. You sit down right in front of it, feeling the warmth of the smoldering fire at your hands. ",scenery,None,home,FALSE
+torch,"You don't know why you have these mounted on your wall, but you can blame Crydus for that. You remember your 20th birthday, how exicited you were when Crydus handing you a gift wrapped in wool. Then of course, that came crashing down once you realized your best friend had given you torches. ",scenery,None,home,FALSE
+sign,"You read the large wooden sign. It points to three different places: North points to Commoner's path, the road which leads to your home. East points toward the small town of Delan, and South points toward Traveler's road. ",scenery,None,crossroad1,FALSE
